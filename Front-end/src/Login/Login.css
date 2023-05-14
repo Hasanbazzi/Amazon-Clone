@@ -1,0 +1,63 @@
+.Logo{
+    width:100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+   
+    object-fit: contain;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+.Login{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    padding: 20px;
+}
+.container >h1{
+font-weight: 500;
+margin-bottom: 20px;
+}
+form>h5{
+margin-bottom: 5px;
+}
+form>input{
+    height: 30px;
+    width:98%;
+    background-color: white;
+    margin-bottom: 10px;
+}
+form>p{
+    margin-top:15px ;
+    font-size: 12px;
+}
+.signInButton{
+    background-color: #f0c14b;
+    border:1px solid;
+    height: 30px;
+    border-radius: 2px;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color:#111;
+    width: 100%;
+}
+.CreateButton{
+  
+    border:1px solid;
+    height: 30px;
+    border-radius: 2px;
+    margin-top: 10px;
+   
+ border-color: darkgray;
+    width: 100%;
+}
