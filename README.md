@@ -26,7 +26,3 @@ This project was created to deepen my understanding of the fundamentals of **Jav
 ---
 
 **🌟 Fun Note:** If you’re reading this, I hope you have a great day! 😄  
-
----
-
-Let me know if you’d like additional changes or features highlighted!
